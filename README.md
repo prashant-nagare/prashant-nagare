@@ -1,7 +1,16 @@
 ### Hi there 👋 I'm Prashant
 
+I build stuff in my free time.
+
+mailbox Get in touch
+Email: prashantknagare@gmail.com
+LinkedIn - https://www.linkedin.com/in/prashant-nagare/
+Telegram - https://t.me/meprashant
+
 <!--
 **prashant-nagare/prashant-nagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
