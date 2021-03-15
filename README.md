@@ -3,9 +3,9 @@
 I build stuff in my free time.
 
 ## 📫 Get in touch 
-- Email: thesumitkolhe@gmail.com
-- LinkedIn - https://linkedin.com/in/sumitkolhe
-- Telegram - https://t.me/sumitkolhe
+- Email: prashantknagare@gmail.com
+- LinkedIn - https://www.linkedin.com/in/prashant-nagare/
+- Telegram - https://t.me/meprashant
 
 <!--
 **prashant-nagare/prashant-nagare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
