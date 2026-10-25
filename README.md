@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Nagare</h1>
-<h3 align="center">A passionate mainframe developer & Cyber security researcher from India</h3>
+<h3 align="center">A passionate Cyber security Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-nagare&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-nagare" /> </p>
 
